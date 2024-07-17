@@ -32,7 +32,7 @@
     "remark-gfm": "^3.0.1",
     "remark-typedoc-symbol-links": "1.0.1",
     "replace-in-file": "^6.3.5",
-    "sass": "^1.54.0",
+    "sass": "^1.77.6",
     "unified": "8.4.2",
     "unist-util-visit": "^2.0.3"
   },
