@@ -178,6 +178,6 @@
     "winston": "^3.6.0",
     "winston-daily-rotate-file": "^4.5.5",
     "winston-syslog": "^2.5.0",
-    "xmlbuilder2": "^3.0.2"
+    "xmlbuilder2": "^4.0.0"
   }
 }
